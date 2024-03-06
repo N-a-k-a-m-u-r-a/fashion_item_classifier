@@ -1,0 +1,2 @@
+# fashion_item_classifier
+fashion-MNISTで学習したモデルを用いて入力画像を分類するアプリケーション
